@@ -2,14 +2,14 @@
 {
     private static void Main(string[] args)
     {//square patter using stars
-       for(int i=0; i<=5; i++)
+        for (int i = 0; i <= 5; i++)
         {
             Console.Write("* ");
 
 
         }
         Console.WriteLine();
-        for (int i=0; i<=3;i++)
+        for (int i = 0; i <= 3; i++)
         {
             Console.WriteLine("*         *");
 
@@ -25,7 +25,7 @@
         //while loop
         ///
         int a = 0;
-        while (a<5)
+        while (a < 5)
         {
             Console.WriteLine(a);
             a++;
@@ -38,7 +38,21 @@
         {
             Console.WriteLine(b);
             b++;
-        }while (b <5);
+        } while (b < 5);
+
+        //increment 
+        ///postincrement: a++ =>a=+1
+        ///preincrement: ++a
+        ///
+        int x = 1;
+        Console.WriteLine(x++);//output is 1
+        Console.WriteLine(++x);//output is 3
+
+
+
+
+
+
 
     }
 }
