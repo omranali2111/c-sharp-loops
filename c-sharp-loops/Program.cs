@@ -31,5 +31,14 @@
             a++;
         }
 
+        //do while loop
+        ///
+        int b = 0;
+        do
+        {
+            Console.WriteLine(b);
+            b++;
+        }while (b <5);
+
     }
 }
