@@ -20,5 +20,16 @@
 
 
         }
+
+        Console.WriteLine();
+        //while loop
+        ///
+        int a = 0;
+        while (a<5)
+        {
+            Console.WriteLine(a);
+            a++;
+        }
+
     }
 }
