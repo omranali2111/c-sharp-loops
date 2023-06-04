@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\code-TRA\c-sharp-loops\c-sharp-loops\bin\Debug\net6.0\c-sharp-loops.exe
+C:\Users\HP\Desktop\code-TRA\c-sharp-loops\c-sharp-loops\bin\Debug\net6.0\c-sharp-loops.deps.json
+C:\Users\HP\Desktop\code-TRA\c-sharp-loops\c-sharp-loops\bin\Debug\net6.0\c-sharp-loops.runtimeconfig.json
+C:\Users\HP\Desktop\code-TRA\c-sharp-loops\c-sharp-loops\bin\Debug\net6.0\c-sharp-loops.dll
+C:\Users\HP\Desktop\code-TRA\c-sharp-loops\c-sharp-loops\bin\Debug\net6.0\c-sharp-loops.pdb
+C:\Users\HP\Desktop\code-TRA\c-sharp-loops\c-sharp-loops\obj\Debug\net6.0\c-sharp-loops.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\code-TRA\c-sharp-loops\c-sharp-loops\obj\Debug\net6.0\c-sharp-loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\code-TRA\c-sharp-loops\c-sharp-loops\obj\Debug\net6.0\c-sharp-loops.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\code-TRA\c-sharp-loops\c-sharp-loops\obj\Debug\net6.0\c-sharp-loops.AssemblyInfo.cs
+C:\Users\HP\Desktop\code-TRA\c-sharp-loops\c-sharp-loops\obj\Debug\net6.0\c-sharp-loops.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\code-TRA\c-sharp-loops\c-sharp-loops\obj\Debug\net6.0\c-sharp-loops.dll
+C:\Users\HP\Desktop\code-TRA\c-sharp-loops\c-sharp-loops\obj\Debug\net6.0\refint\c-sharp-loops.dll
+C:\Users\HP\Desktop\code-TRA\c-sharp-loops\c-sharp-loops\obj\Debug\net6.0\c-sharp-loops.pdb
+C:\Users\HP\Desktop\code-TRA\c-sharp-loops\c-sharp-loops\obj\Debug\net6.0\c-sharp-loops.genruntimeconfig.cache
+C:\Users\HP\Desktop\code-TRA\c-sharp-loops\c-sharp-loops\obj\Debug\net6.0\ref\c-sharp-loops.dll

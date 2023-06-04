@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c-sharp-loops", "c-sharp-loops\c-sharp-loops.csproj", "{D3A17A7C-5361-49EF-8DF3-0B1D248B53D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3A17A7C-5361-49EF-8DF3-0B1D248B53D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3A17A7C-5361-49EF-8DF3-0B1D248B53D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3A17A7C-5361-49EF-8DF3-0B1D248B53D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3A17A7C-5361-49EF-8DF3-0B1D248B53D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D70EC8E-00A3-4C6D-ACB6-8E9A797DC784}
+	EndGlobalSection
+EndGlobal
