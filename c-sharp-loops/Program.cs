@@ -66,7 +66,25 @@
         }
 
 
+        //task2
+        ///write code that take one numbers and performe  factorial operation
+        ///
+        {
+            int Number;
+            Console.WriteLine("Enet a  Number:  ");
+            Number = int.Parse(Console.ReadLine());
+            int i,fact=1;
+         for(i = 1; i <=Number; i++)
+            {
 
+                fact = fact * i;
+            }
+            
+            Console.WriteLine("Factorial of " + Number + " is: " + fact);
+        }
+
+
+        
 
 
     }
