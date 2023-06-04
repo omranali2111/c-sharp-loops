@@ -56,9 +56,9 @@
         int startNumber;
         int endNumber;
         Console.WriteLine("Enet a start  Number:  ");
-        startNumber = Convert.ToInt32(Console.ReadLine());
+        startNumber = int.Parse(Console.ReadLine());
         Console.WriteLine("Enet an end Number:  ");
-        endNumber = Convert.ToInt32(Console.ReadLine());
+        endNumber = int.Parse(Console.ReadLine());
         Console.WriteLine("**********************");
         for (int i = startNumber; i <= endNumber; i+=2)
         {
