@@ -1,10 +1,23 @@
 ﻿internal class Program
 {
     private static void Main(string[] args)
-    {
-       for(int i=0; i<=10; i++)
+    {//square patter using stars
+       for(int i=0; i<=5; i++)
         {
-            Console.WriteLine("hello world");
+            Console.Write("* ");
+
+
+        }
+        Console.WriteLine();
+        for (int i=0; i<=3;i++)
+        {
+            Console.WriteLine("*         *");
+
+        }
+        for (int i = 0; i <= 5; i++)
+        {
+            Console.Write("* ");
+
 
         }
     }
