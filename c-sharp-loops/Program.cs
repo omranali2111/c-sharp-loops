@@ -49,6 +49,21 @@
         Console.WriteLine(++x);//output is 3
 
 
+        //task1
+        ///write code that take two numbers from user (start & end)
+        ///and then write the even numbers inbetween them
+
+        int startNumber;
+        int endNumber;
+        Console.WriteLine("Enet a start  Number:  ");
+        startNumber = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Enet an end Number:  ");
+        endNumber = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("**********************");
+        for (int i = startNumber; i <= endNumber; i+=2)
+        {
+            Console.WriteLine(i);
+        }
 
 
 
